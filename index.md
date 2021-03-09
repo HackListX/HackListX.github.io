@@ -2,7 +2,7 @@
 
 Congrats! You've found an actively maintained list of Information Security-related streams. Please contribute missing streams or errors via a pull request, an issue, or the Discord link below. Thanks!
 
-### Streamers
+## Streamers
 
 Streamer | Twitch | Other links
 ---: | --- | :---
@@ -58,14 +58,14 @@ Streamer | Twitch | Other links
 `xthe_developer` | [xthe_developer](https://twitch.tv/xthe_developer) | 
 
 
-### Blue Teamers
+## Blue Teamers
 
 Streamer | Twitch | Other links
 ---: | --- | :---
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
 
 
-### Coders
+## Coders
 
 Streamer | Twitch | Other links
 ---: | --- | :---
@@ -79,7 +79,7 @@ Streamer | Twitch | Other links
 `whitep4nth3r` | [whitep4nth3r](https://twitch.tv/whitep4nth3r) | 
 
 
-#### Useful links
+### Useful links
 
 Link | Description
 --- | ---
@@ -94,7 +94,7 @@ Link | Description
 [CrackStation](https://crackstation.net) | Online Hash Cracking
 
 
-#### Credits
+### Credits
 
 Huge shoutout to [chadb_n00b](https://twitch.tv/chadb_n00b) for starting up and initially maintaining the list!
 
