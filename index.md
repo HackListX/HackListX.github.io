@@ -83,15 +83,15 @@ Streamer | Twitch | Other links
 
 Link | Description
 --- | ---
-https://tryhackme.com | TryHackMe - Learn Penetration Testing Skills 
-https://hackthebox.eu | HackTheBox - Learn Penetration Testing Skills
-https://pentest.ws | Engagement Utility
-https://gtfobins.github.io | Quick Shell One-liners
-https://gchq.github.io/CyberChef/ | The Cyber Swiss Army Knife for analysing/encoding/decoding data
-https://ss64.com/ | Commandline Reference
-https://explainshell.com/ | Bash Shell Command Explanation
-https://0day.exposed/ | Reverse Shell Command Generator
-https://crackstation.net/ | Online Hash Cracking
+[TryHackMe](https://tryhackme.com) | TryHackMe - Learn Penetration Testing Skills 
+[HackTheBox](https://hackthebox.eu) | HackTheBox - Learn Penetration Testing Skills
+[PenTest.WS](https://pentest.ws) | Engagement Utility
+[GTFOBins](https://gtfobins.github.io) | Quick Shell One-liners
+[CyberChef](https://gchq.github.io/CyberChef) | The Cyber Swiss Army Knife for analysing/encoding/decoding data
+[SS64](https://ss64.com) | Commandline Reference
+[ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
+[0day.exposed](https://0day.exposed) | Reverse Shell Command Generator
+[CrackStation](https://crackstation.net) | Online Hash Cracking
 
 
 #### Credits
@@ -102,4 +102,3 @@ Huge shoutout to [chadb_n00b](https://twitch.tv/chadb_n00b) for starting up and 
 ### Report an Issue
 
 Having trouble with a link? Visit [Discord](https://discord.gg/C9k5tJYHcr) and we’ll help you sort it out.
-
