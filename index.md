@@ -25,10 +25,10 @@ Streamer | Twitch | Other links
 `data_disciple` | [data_disciple](https://twitch.tv/data_disciple) | 
 `dayzerosec` | [dayzerosec](https://twitch.tv/dayzerosec) | [Youtube](https://www.youtube.com/channel/UCXFC76FDHZRVes6_lZqwLBA)
 `dccybersec` | [dccybersec](https://twitch.tv/dccybersec) | [YouTube](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
+`djax` | [djaz](https://www.twitch.tv/djax120) | [YouTube](https://www.youtube.com/channel/UCJVQ4X0olUFq0nrxS8Xvijg)
 `dowright` | [dowright](https://twitch.tv/dowright) | 
 `echozach` | [echozach](https://twitch.tv/echozach) | 
 `fearless0523` | [fearless0523](https://twitch.tv/fearless0523) | 
-`footpics4sale` | [footpics4sale](https://twitch.tv/footpics4sale) | 
 `foxcap_` | [foxcap_](https://twitch.tv/foxcap_) | 
 `hackingesports` | [hackingesports](https://twitch.tv/hackingesports) | 
 `hackingesports_eng` | [hackingesports_eng](https://twitch.tv/hackingesports_eng) | 
@@ -62,6 +62,7 @@ Streamer | Twitch | Other links
 
 Streamer | Twitch | Other links
 ---: | --- | :---
+`footpics4sale` | [footpics4sale](https://twitch.tv/footpics4sale) | 
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
 
 
