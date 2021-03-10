@@ -25,6 +25,7 @@ Streamer | Twitch | Other links
 `data_disciple` | [data_disciple](https://twitch.tv/data_disciple) | 
 `dayzerosec` | [dayzerosec](https://twitch.tv/dayzerosec) | [Youtube](https://www.youtube.com/channel/UCXFC76FDHZRVes6_lZqwLBA)
 `dccybersec` | [dccybersec](https://twitch.tv/dccybersec) | [YouTube](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
+`desyncryan` | [desyncryan](https://www.twitch.tv/desyncryan) | [YouTube](https://www.youtube.com/channel/UChZesZaDGh8_9ngbk3GGG7Q)
 `djax` | [djaz](https://www.twitch.tv/djax120) | [YouTube](https://www.youtube.com/channel/UCJVQ4X0olUFq0nrxS8Xvijg)
 `dowright` | [dowright](https://twitch.tv/dowright) | 
 `echozach` | [echozach](https://twitch.tv/echozach) | 
