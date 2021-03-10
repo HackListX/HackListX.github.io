@@ -28,7 +28,6 @@ Streamer | Twitch | Other links
 `dowright` | [dowright](https://twitch.tv/dowright) | 
 `echozach` | [echozach](https://twitch.tv/echozach) | 
 `fearless0523` | [fearless0523](https://twitch.tv/fearless0523) | 
-`footpics4sale` | [footpics4sale](https://twitch.tv/footpics4sale) | 
 `foxcap_` | [foxcap_](https://twitch.tv/foxcap_) | 
 `hackingesports` | [hackingesports](https://twitch.tv/hackingesports) | 
 `hackingesports_eng` | [hackingesports_eng](https://twitch.tv/hackingesports_eng) | 
@@ -62,6 +61,7 @@ Streamer | Twitch | Other links
 
 Streamer | Twitch | Other links
 ---: | --- | :---
+`footpics4sale` | [footpics4sale](https://twitch.tv/footpics4sale) | 
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
 
 
