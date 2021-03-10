@@ -52,6 +52,7 @@ Streamer | Twitch | Other links
 `smash8tap` | [smash8tap](https://twitch.tv/smash8tap) | 
 `stellargb` | [stellargb](https://twitch.tv/stellargb) | 
 `sup3rhero1` | [sup3rhero1](https://twitch.tv/sup3rhero1) | 
+`Th3lazykid`| [Th3lazykid](https://www.twitch.tv/Th3lazykid) |  
 `thecybermentor` | [thecybermentor](https://twitch.tv/thecybermentor) | [YouTube](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 `themayor11` | [themayor11](https://twitch.tv/themayor11) | [YouTube](https://www.youtube.com/channel/UC5J6JvH5F29FllbLjwmA5ZA)
 `xangrychairx` | [xangrychairx](https://twitch.tv/xangrychairx) | [YouTube](https://www.youtube.com/channel/UCS1KHdnVAV1-Qx0jquAiBLA)
