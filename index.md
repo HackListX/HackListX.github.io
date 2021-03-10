@@ -23,7 +23,7 @@ Streamer | Twitch | Other links
 `cyber_v1s3rion` | [cyber_v1s3rion](https://twitch.tv/cyber_v1s3rion) | 
 `CyberWarriorStudios` | [CyberWarriorStudios](https://twitch.tv/CyberWarriorStudios) | [YouTube](https://www.youtube.com/channel/UC1BeplJcC5YGHjcF8QyRD7g)
 `data_disciple` | [data_disciple](https://twitch.tv/data_disciple) | 
-`dayzerosec` | [dayzerosec](https://twitch.tv/dayzerosec) | 
+`dayzerosec` | [dayzerosec](https://twitch.tv/dayzerosec) | [Youtube](https://www.youtube.com/channel/UCXFC76FDHZRVes6_lZqwLBA)
 `dccybersec` | [dccybersec](https://twitch.tv/dccybersec) | [YouTube](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
 `dowright` | [dowright](https://twitch.tv/dowright) | 
 `echozach` | [echozach](https://twitch.tv/echozach) | 
