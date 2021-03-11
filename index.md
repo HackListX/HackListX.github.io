@@ -100,7 +100,7 @@ Link | Description
 
 ### Credits
 
-Huge shoutout to [chadb_n00b](https://twitch.tv/chadb_n00b) for starting up and initially maintaining the list!
+Huge shoutout to [goproslowyo](https://www.twitch.tv/goproslowyo) for creating an awesome version of the list helping me learn Git and MarkDown!!
 
 
 ### Report an Issue
