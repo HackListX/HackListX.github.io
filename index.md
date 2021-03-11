@@ -19,6 +19,7 @@ Streamer | Twitch | Other links
 `codingo_` | [codingo_](https://twitch.tv/codingo_) | [YouTube](https://www.youtube.com/channel/UCUfO02gdMDXgOJWdv_jiLMg)
 `crumbswastaken` | [crumbswastaken](https://twitch.tv/crumbswastaken) | 
 `ctrlbyte` | [ctrlbyte](https://twitch.tv/ctrlbyte) | 
+`cybervno` | [cybervno](https://www.twitch.tv/cybervno) |
 `cyber_insecurity` | [cyber_insecurity](https://twitch.tv/cyber_insecurity) | [YouTube](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)
 `cyber_v1s3rion` | [cyber_v1s3rion](https://twitch.tv/cyber_v1s3rion) | 
 `CyberWarriorStudios` | [CyberWarriorStudios](https://twitch.tv/CyberWarriorStudios) | [YouTube](https://www.youtube.com/channel/UC1BeplJcC5YGHjcF8QyRD7g)
