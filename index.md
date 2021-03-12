@@ -79,6 +79,7 @@ Streamer | Twitch | Other links
 `cmgriffing` | [cmgriffing](https://twitch.tv/cmgriffing) | 
 `codingandcoffee` | [codingandcoffee](https://twitch.tv/codingandcoffee) | 
 `dr_dinomight` | [dr_dinomight](https://twitch.tv/dr_dinomight) | 
+`laastatine` | [laastatine](https://www.twitch.tv/laastatine) |
 `nerdiebirdy` | [nerdiebirdy](https://twitch.tv/nerdiebirdy) | 
 `togglebit` | [togglebit](https://twitch.tv/togglebit) | 
 `trash_dev` | [trash_dev](https://twitch.tv/trash_dev) | 
