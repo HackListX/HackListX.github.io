@@ -68,6 +68,7 @@ Streamer | Twitch | Other links
 Streamer | Twitch | Other links
 ---: | --- | :---
 `footpics4sale` | [footpics4sale](https://twitch.tv/footpics4sale) | 
+`mttaggart` | [mttaggart](https://www.twitch.tv/) |
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
 
 
