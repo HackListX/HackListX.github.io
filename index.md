@@ -1,4 +1,4 @@
-## InfoSec Streamers
+## HackListX
 
 Congrats! You've found an actively maintained list of Information Security-related streams. Please contribute missing streams or errors via a pull request, an issue, or the Discord link below.
 
