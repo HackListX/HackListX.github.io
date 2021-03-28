@@ -125,7 +125,3 @@ Link | Description
 
 Huge shoutout to [goproslowyo](https://www.twitch.tv/goproslowyo) for creating an awesome version of the list helping me learn Git and MarkDown!!
 
-
-### Report an Issue
-
-Having trouble with a link? Visit  and we’ll help you sort it out.
