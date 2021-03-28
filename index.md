@@ -1,6 +1,6 @@
 ## HackListX
 
-Congrats! You've found an actively maintained list of Information Security-related streams. Please contribute missing streams or errors via a pull request, an issue, or the Discord link below.
+This is a list of Information Security-related streams. Please contribute missing streams or errors via a pull request, an issue, or the Discord link below.
 
 ## Streamers
 
@@ -106,6 +106,7 @@ Link | Description
 --- | ---
 [TryHackMe](https://tryhackme.com) | TryHackMe - Learn Penetration Testing Skills 
 [HackTheBox](https://hackthebox.eu) | HackTheBox - Learn Penetration Testing Skills
+[HackTheBoxAcademy](https://academy.hackthebox.eu/) | HackTheBoxAcademy - Learn Penetration Testing Skills From the Beginning
 [PenTest.WS](https://pentest.ws) | Engagement Utility
 [GTFOBins](https://gtfobins.github.io) | Quick Shell One-liners
 [CyberChef](https://gchq.github.io/CyberChef) | The Cyber Swiss Army Knife for analysing/encoding/decoding data
@@ -114,6 +115,7 @@ Link | Description
 [ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
 [0day.exposed](https://0day.exposed) | Reverse Shell Command Generator
 [CrackStation](https://crackstation.net) | Online Hash Cracking
+[ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Learn Basic through intermediate networking
 
 
 ### Credits
