@@ -1,7 +1,9 @@
 ## HackListX
 
-This is a list of Information Security-related streams. Please contribute missing streams or errors via a pull request, an issue, or the Discord link below.
-The Original Hacklists are still maintained and can be found as a Google Doc [here](https://docs.google.com/document/d/1A75GwKln1aQDO7jn3w8HSh_bNC978bXtuJhkIX_fv5A/edit?usp=sharing) or a Google Sheet [here](https://docs.google.com/spreadsheets/d/1gE4Z94ZoihunPdPDvXQ9kwOL-YbRqtou4yQj7686gXI/edit?usp=sharing). There is a colaboritive version of this [here](https://infosecstreams.github.io/) that motivated me to create version while learning new skills.
+This is a list of Information Security-related streams. 
+Please contribute missing streams or errors via a pull request, an issue, or [this Discord](https://discord.gg/C9k5tJYHcr).
+The Original Hacklists are still maintained and can be found as a Google Doc [here](https://docs.google.com/document/d/1A75GwKln1aQDO7jn3w8HSh_bNC978bXtuJhkIX_fv5A/edit?usp=sharing) or a Google Sheet [here](https://docs.google.com/spreadsheets/d/1gE4Z94ZoihunPdPDvXQ9kwOL-YbRqtou4yQj7686gXI/edit?usp=sharing). 
+There is a colaboritive version of this [here](https://infosecstreams.github.io/) that motivated me to create this version while and learn new skills.
 
 ## Streamers
 
@@ -126,4 +128,4 @@ Huge shoutout to [goproslowyo](https://www.twitch.tv/goproslowyo) for creating a
 
 ### Report an Issue
 
-Having trouble with a link? Visit [Discord](https://discord.gg/C9k5tJYHcr) and we’ll help you sort it out.
+Having trouble with a link? Visit  and we’ll help you sort it out.
