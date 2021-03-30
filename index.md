@@ -89,7 +89,7 @@ Streamer | Twitch | Other links
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
 
 
-## Our Coder Friends
+## Coder Friends
 
 Streamer | Twitch | Other links
 ---: | --- | :---
