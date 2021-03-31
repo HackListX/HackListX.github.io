@@ -38,7 +38,7 @@ Streamer | Twitch | YouTube
 `dccybersec` | [dccybersec](https://twitch.tv/dccybersec) | [YouTube](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
 `desyncryan` | [desyncryan](https://www.twitch.tv/desyncryan) | [YouTube](https://www.youtube.com/channel/UChZesZaDGh8_9ngbk3GGG7Q)
 `devnullzen` | [devnullzen](https://www.twitch.tv/devnullzen) |
-`djax` | [djaz](https://www.twitch.tv/djax120) | [YouTube](https://www.youtube.com/channel/UCJVQ4X0olUFq0nrxS8Xvijg)
+`djax` | [djax](https://www.twitch.tv/djax120) | [YouTube](https://www.youtube.com/channel/UCJVQ4X0olUFq0nrxS8Xvijg)
 `dmll606` | [dmll606](https://www.twitch.tv/dmll606) |
 `dowright` | [dowright](https://twitch.tv/dowright) | 
 `echozach` | [echozach](https://twitch.tv/echozach) | 
