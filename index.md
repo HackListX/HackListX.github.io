@@ -76,6 +76,7 @@ Streamer | Twitch | YouTube
 `thecybermentor` | [thecybermentor](https://twitch.tv/thecybermentor) | [YouTube](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 `themayor11` | [themayor11](https://twitch.tv/themayor11) | [YouTube](https://www.youtube.com/channel/UC5J6JvH5F29FllbLjwmA5ZA)
 `xangrychairx` | [xangrychairx](https://twitch.tv/xangrychairx) | [YouTube](https://www.youtube.com/channel/UCS1KHdnVAV1-Qx0jquAiBLA)
+`xesquirmy` | [xesquirmyxesquirmy](https://www.twitch.tv/xesquirmy) |
 `xthe_developer` | [xthe_developer](https://twitch.tv/xthe_developer) | 
 
 
