@@ -3,7 +3,7 @@
 This is a list of Information Security-related streams. 
 Please contribute missing streams or errors in [this Discord](https://discord.gg/C9k5tJYHcr).
 The Original Hacklists are still maintained and can be found as a Google Doc [here](https://docs.google.com/document/d/1A75GwKln1aQDO7jn3w8HSh_bNC978bXtuJhkIX_fv5A/edit?usp=sharing) or a Google Sheet [here](https://docs.google.com/spreadsheets/d/1gE4Z94ZoihunPdPDvXQ9kwOL-YbRqtou4yQj7686gXI/edit?usp=sharing). 
-There is a collaboritive version of this [here](https://infosecstreams.github.io/) that motivated me to create this version while and learn new skills.
+There is a collaborative version of this [here](https://infosecstreams.github.io/) that motivated me to create this version while and learn new skills.
 
 ## Streamers
 
