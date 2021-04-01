@@ -122,6 +122,7 @@ Link | Description
 [0day.exposed](https://0day.exposed) | Reverse Shell Command Generator
 [CrackStation](https://crackstation.net) | Online Hash Cracking
 [ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Learn Basic through intermediate networking
+[securitycreators](https://securitycreators.video/) | Liveoverflow's List
 
 
 ### Credits
