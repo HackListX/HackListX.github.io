@@ -63,6 +63,7 @@ Streamer | Twitch | YouTube
 `nahamsec` | [nahamsec](https://twitch.tv/nahamsec) | 
 `nidensec` | [nidensec](https://twitch.tv/nidensec) | 
 `officialwillip` | [officialwillip](https://twitch.tv/officialwillip) | [YouTube](https://www.youtube.com/channel/UCaOOGHgwrcyf527o838yLyg)
+`quercusvirginiana` | [quercusvirginiana](https://www.twitch.tv/quercusvirginiana) |
 `ryskill` | [ryskill](https://www.twitch.tv/ryskill) |
 `saucysec` | [saucysec](https://twitch.tv/saucysec) | 
 `sawyerone` | [sawyerone](https://twitch.tv/sawyerone) | 
