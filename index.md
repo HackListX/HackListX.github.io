@@ -43,6 +43,7 @@ Streamer | Twitch | YouTube
 `dmll606` | [dmll606](https://www.twitch.tv/dmll606) |
 `dowright` | [dowright](https://twitch.tv/dowright) | 
 `echozach` | [echozach](https://twitch.tv/echozach) | 
+`endingwithali` | [endingwithali](https://www.twitch.tv/endingwithali) |
 `fearless0523` | [fearless0523](https://twitch.tv/fearless0523) | 
 `foxcap_` | [foxcap_](https://twitch.tv/foxcap_) | 
 `goldwave__` | [goldwave__]( https://www.twitch.tv/goldwave__) | 
