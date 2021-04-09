@@ -126,7 +126,7 @@ Link | Description
 [CrackStation](https://crackstation.net) | Online Hash Cracking
 [ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Learn Basic through intermediate networking
 [securitycreators](https://securitycreators.video/) | Liveoverflow's List
-[Buffer Overflow Notes](https://alomancy.gitbook.io/guides/) | An In Depth Guide to BoF's by [Alomancy](https://www.twitch.tv/alomancy)
+[Guides](https://alomancy.gitbook.io/guides/) | An In Depth Guide to BoF's by [Alomancy](https://www.twitch.tv/alomancy)
 
 
 ### Credits
