@@ -67,6 +67,7 @@ Streamer | Twitch | YouTube
 `nidensec` | [nidensec](https://twitch.tv/nidensec) | 
 `officialwillip` | [officialwillip](https://twitch.tv/officialwillip) | [YouTube](https://www.youtube.com/channel/UCaOOGHgwrcyf527o838yLyg)
 `primalmk` | [primalmk](https://www.twitch.tv/primalmk) |
+`pwnschool` | [pwnschool](https://www.twitch.tv/pwnschool) |
 `quercusvirginiana` | [quercusvirginiana](https://www.twitch.tv/quercusvirginiana) |
 `rastam0us3` | [rastam0us3](https://www.twitch.tv/rastam0us3) |
 `ryskill` | [ryskill](https://www.twitch.tv/ryskill) |
