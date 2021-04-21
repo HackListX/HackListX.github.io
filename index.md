@@ -125,6 +125,7 @@ Link | Description
 [GTFOBins](https://gtfobins.github.io) | Quick Shell One-liners
 [CyberChef](https://gchq.github.io/CyberChef) | The Cyber Swiss Army Knife for analysing/encoding/decoding data
 [dCode](https://www.dcode.fr/en) | dCode is a toolkit website for decryption, ciphertexts
+[JWT Tool](https://jwt.io) | jwt tool 
 [SS64](https://ss64.com) | Commandline Reference
 [ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
 [0day.exposed](https://0day.exposed) | Reverse Shell Command Generator
