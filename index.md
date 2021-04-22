@@ -59,6 +59,7 @@ Streamer | Twitch | YouTube
 `kokencyber` | [kokencyber](https://twitch.tv/kokencyber) | 
 `lminzarl` | [lminzarl](https://twitch.tv/lminzarl) | 
 `ltn_bob` | [ltn_bob](https://twitch.tv/ltn_bob) | 
+`lurkingdeep` | [lurkingdeep](https://www.twitch.tv/lurkingdeep) |
 `magneticpenguin` | [magneticpenguin](https://twitch.tv/magneticpenguin) | 
 `majksec` | [majksec](https://twitch.tv/majksec) | 
 `mbcrump` | [mbcrump](https://twitch.tv/mbcrump) | [YouTube](https://www.youtube.com/channel/UCCjHMUEzoCauYet8NG4sCog)
