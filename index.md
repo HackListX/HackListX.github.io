@@ -50,6 +50,7 @@ Streamer | Twitch | YouTube
 `foxcap_` | [foxcap_](https://twitch.tv/foxcap_) | 
 `goldwave__` | [goldwave__]( https://www.twitch.tv/goldwave__) | 
 `goproslowyo` | [goproslowyo](https://www.twitch.tv/goproslowyo) |
+`hackbacc` | [hackbacc](https://www.twitch.tv/hackbacc) |
 `hackingesports` | [hackingesports](https://twitch.tv/hackingesports) | 
 `hackingesports_eng` | [hackingesports_eng](https://twitch.tv/hackingesports_eng) | 
 `hattondog` | [hattondog](https://www.twitch.tv/hattondog) |
