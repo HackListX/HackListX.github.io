@@ -80,6 +80,7 @@ Streamer | Twitch | YouTube
 `saucysec` | [saucysec](https://twitch.tv/saucysec) | 
 `sawyerone` | [sawyerone](https://twitch.tv/sawyerone) | 
 `securityfwd` | [securityfwd](https://www.twitch.tv/securityfwd) | [YouTube](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+`securityweekly` | [securityweekly](https://www.twitch.tv/securityweekly) | 
 `sharghaas` | [sharghaas](https://www.twitch.tv/sharghaas) |
 `slyborgsinner` | [slyborgsinner](https://twitch.tv/slyborgsinner) | 
 `smash8tap` | [smash8tap](https://twitch.tv/smash8tap) | 
