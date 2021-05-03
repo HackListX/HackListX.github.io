@@ -37,6 +37,7 @@ Streamer | Twitch | YouTube
 `data_disciple` | [data_disciple](https://twitch.tv/data_disciple) | 
 `dayzerosec` | [dayzerosec](https://twitch.tv/dayzerosec) | [Youtube](https://www.youtube.com/channel/UCXFC76FDHZRVes6_lZqwLBA)
 `dccybersec` | [dccybersec](https://twitch.tv/dccybersec) | [YouTube](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
+`dal3ksec` | [dal3ksec](https://www.twitch.tv/dal3ksec) |
 `desyncryan` | [desyncryan](https://www.twitch.tv/desyncryan) | [YouTube](https://www.youtube.com/channel/UCQWQlNq07_Rumy2i69dpqBw)
 `devnullzen` | [devnullzen](https://www.twitch.tv/devnullzen) |
 `digitenchou` | [digitenchou](https://www.twitch.tv/digitenchou) |
@@ -97,7 +98,6 @@ Streamer | Twitch | YouTube
 
 Streamer | Twitch | Other links
 ---: | --- | :---
-`dal3ksec` | [dal3ksec](https://www.twitch.tv/dal3ksec) |
 `footpics4sale` | [footpics4sale](https://twitch.tv/footpics4sale) | 
 `mttaggart` | [mttaggart](https://www.twitch.tv/) |
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
@@ -127,6 +127,7 @@ Link | Description
 [HackTheBoxAcademy](https://academy.hackthebox.eu/) | HackTheBoxAcademy - Learn Penetration Testing Skills From the Beginning
 [PenTest.WS](https://pentest.ws) | Engagement Utility
 [GTFOBins](https://gtfobins.github.io) | Quick Shell One-liners
+[exploitDB](https://www.exploit-db.com/) | A database of exploits fpr PenTesters
 [CyberChef](https://gchq.github.io/CyberChef) | The Cyber Swiss Army Knife for analysing/encoding/decoding data
 [dCode](https://www.dcode.fr/en) | dCode is a toolkit website for decryption, ciphertexts
 [JWT Tool](https://jwt.io) | JSON Web Token encoder/decoder 
