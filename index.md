@@ -56,6 +56,7 @@ Streamer | Twitch | YouTube
 `hackingesports` | [hackingesports](https://twitch.tv/hackingesports) | 
 `hackingesports_eng` | [hackingesports_eng](https://twitch.tv/hackingesports_eng) | 
 `hattondog` | [hattondog](https://www.twitch.tv/hattondog) |
+`heyj4x0n` | [heyj4x0n](https://www.twitch.tv/heyj4x0n0) |
 `hey_its_lgg` | [hey_its_lgg](https://twitch.tv/hey_its_lgg) | 
 `infinitelogins` | [infinitelogins](https://twitch.tv/infinitelogins) | [YouTube](https://www.youtube.com/channel/UC_nKukFaGysjMzqMVHEIgxQ)
 `iotvillage` | [iotvillage](https://www.twitch.tv/iotvillage) |
