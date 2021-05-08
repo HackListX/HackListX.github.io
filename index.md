@@ -25,6 +25,7 @@ Streamer | Twitch | YouTube
 `biueaider` | [biueaider](https://www.twitch.tv/biueaider) |
 `chadb_n00b` | [chadb_n00b](https://twitch.tv/chadb_n00b) | 
 `chrissean` | [chrissean](https://twitch.tv/chrissean) | 
+`ch3fez` | [ch3fez](https://www.twitch.tv/ch3fez) |
 `codingo_` | [codingo_](https://twitch.tv/codingo_) | [YouTube](https://www.youtube.com/channel/UCUfO02gdMDXgOJWdv_jiLMg)
 `crumbswastaken` | [crumbswastaken](https://twitch.tv/crumbswastaken) | 
 `ctrlbyte` | [ctrlbyte](https://twitch.tv/ctrlbyte) | 
