@@ -142,6 +142,7 @@ Link | Description
 [CrackStation](https://crackstation.net) | Online Hash Cracking
 [ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Learn Basic through intermediate networking
 [securitycreators](https://securitycreators.video/) | Liveoverflow's List
+[Reverse Shell Generator](https://www.revshells.com/) | Creates Reverse Shells
 [Guides](https://alomancy.gitbook.io/guides/) | In Depth Guides by [Alomancy](https://www.twitch.tv/alomancy)
 
 
