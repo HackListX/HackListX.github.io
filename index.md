@@ -1,10 +1,10 @@
 ## HackListX
 
-This is a list of Hacking Streamers derived from the original Hacklists [here](https://docs.google.com/document/d/1A75GwKln1aQDO7jn3w8HSh_bNC978bXtuJhkIX_fv5A/edit?usp=sharing) and [here](https://docs.google.com/spreadsheets/d/1gE4Z94ZoihunPdPDvXQ9kwOL-YbRqtou4yQj7686gXI/edit?usp=sharing). While I continue to maintain those, there is a collaborative version [here](https://infosecstreams.github.io/) that motivated me to create this version while and learn new skills.
+This is a list of Hacking Streamers derived from the original Hacklists: [here](https://docs.google.com/document/d/1A75GwKln1aQDO7jn3w8HSh_bNC978bXtuJhkIX_fv5A/edit?usp=sharing) and [here](https://docs.google.com/spreadsheets/d/1gE4Z94ZoihunPdPDvXQ9kwOL-YbRqtou4yQj7686gXI/edit?usp=sharing). Please join [this Discord](https://discord.gg/C9k5tJYHcr) to suggest other content creators or discuss hacking. Hope to see you there.
 
-Please join [this Discord](https://discord.gg/C9k5tJYHcr) to suggest other content creators or discuss hacking. Hope to see you there.
+[InfosecStreames](https://infosecstreams.github.io/) is a list that is sorted by the amount of streaming activity of each person on the list.
 
-## Streamers
+## Red Team Streamers
 
 Streamer | Twitch | YouTube
 ---: | --- | :---
@@ -98,7 +98,7 @@ Streamer | Twitch | YouTube
 `xthe_developer` | [xthe_developer](https://twitch.tv/xthe_developer) | 
 
 
-## Blue Teamers
+## Blue Team Streamers
 
 Streamer | Twitch | Other links
 ---: | --- | :---
@@ -107,7 +107,7 @@ Streamer | Twitch | Other links
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
 
 
-## Coder Friends
+## Coders That Support Inforsec Streamers
 
 Streamer | Twitch | Other links
 ---: | --- | :---
