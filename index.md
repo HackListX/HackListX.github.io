@@ -20,6 +20,7 @@ Streamer | Twitch | YouTube
 `anyascii` | [anyascii](https://twitch.tv/anyascii) |
 `ash_f0x` | [ash_f0x](https://twitch.tv/ash_f0x) | 
 `aywang` | [aywang](https://twitch.tv/aywang) | 
+'bashbunni' | [bashbunni](https://www.twitch.tv/bashbunni) |
 `blindpentester` | [blindpentester](https://twitch.tv/blindpentester) | 
 `blvkhakr` | [blvkhakr](https://www.twitch.tv/blvkhakr) |
 `biueaider` | [biueaider](https://www.twitch.tv/biueaider) |
