@@ -127,20 +127,17 @@ Streamer | Twitch | Other links
 
 Link | Description
 --- | ---
-***Resource Reference***
+[Training and Reference]
 [TryHackMe](https://tryhackme.com) | TryHackMe - Learn Penetration Testing Skills 
 [HackTheBox](https://hackthebox.eu) | HackTheBox - Learn Penetration Testing Skills
 [HackTheBoxAcademy](https://academy.hackthebox.eu/) | HackTheBoxAcademy - Learn Penetration Testing Skills From the Beginning
-
 [PenTest.WS](https://pentest.ws) | Engagement Utility
 [HackTricks](https://book.hacktricks.xyz/) | List of tricks and Techniques
 [GTFOBins](https://gtfobins.github.io) | Quick Shell One-liners
-
 [exploitDB](https://www.exploit-db.com/) | A database of exploits fpr PenTesters
 [CyberChef](https://gchq.github.io/CyberChef) | The Cyber Swiss Army Knife for analysing/encoding/decoding data
 [dCode](https://www.dcode.fr/en) | dCode is a toolkit website for decryption, ciphertexts
 [JWT Tool](https://jwt.io) | JSON Web Token encoder/decoder 
-
 [CentralOps.net](https://centralops.net/co/) | Online Network Tools
 [SS64](https://ss64.com) | Commandline Reference
 [ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
@@ -148,7 +145,6 @@ Link | Description
 [CrackStation](https://crackstation.net) | Online Hash Cracking
 [ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Learn Basic through intermediate networking
 [Reverse Shell Generator](https://www.revshells.com/) | Creates Reverse Shells
-
 [Guides](https://alomancy.gitbook.io/guides/) | In Depth Guides by [Alomancy](https://www.twitch.tv/alomancy)
 [securitycreators](https://securitycreators.video/) | Liveoverflow's List
 
