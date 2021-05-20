@@ -149,6 +149,7 @@ Link | Description
 [0day.exposed](https://0day.exposed) | Reverse Shell Command Generator
 [CrackStation](https://crackstation.net) | Online Hash Cracking
 [Reverse Shell Generator](https://www.revshells.com/) | Creates Reverse Shells
+[Other Lists] |
 [securitycreators](https://securitycreators.video/) | Liveoverflow's List
 
 ### Credits
