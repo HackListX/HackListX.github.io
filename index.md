@@ -8,11 +8,6 @@ This is a list of Hacking Streamers derived from the original Hacklists: [here](
 
 Streamer | Twitch | YouTube
 ---: | --- | :---
-`0reobyte` | [0reobyte](https://www.twitch.tv/0reobyte) |
-`0xa_lilkelly` | [0xa_lilkelly](https://twitch.tv/0xa_lilkelly) | 
-`0xBufu` | [0xBufu](https://twitch.tv/0xBufu) | 
-`0xtib3rius` | [0xtib3rius](https://twitch.tv/0xtib3rius) | 
-`55keez` | [55keez](https://twitch.tv/55keez) | 
 `alexchaveriat` | [alexchaveriat](https://www.twitch.tv/alexchaveriat) | [YouTube](https://www.youtube.com/c/AlexChaveriat/videos)
 `alh4zr3d` | [alh4zr3d](https://twitch.tv/alh4zr3d) | [YouTube](https://www.youtube.com/channel/UCz-Z-d2VPQXHGkch0-_KovA)
 `alomancy` | [alomancy](https://www.twitch.tv/alomancy) | [YouTube](https://www.youtube.com/channel/UCe2i94acge3Bv2Tmjla0h_g)
@@ -97,7 +92,11 @@ Streamer | Twitch | YouTube
 `xangrychairx` | [xangrychairx](https://twitch.tv/xangrychairx) | [YouTube](https://www.youtube.com/channel/UCS1KHdnVAV1-Qx0jquAiBLA)
 `xesquirmy` | [xesquirmy](https://www.twitch.tv/xesquirmy) |
 `xthe_developer` | [xthe_developer](https://twitch.tv/xthe_developer) | 
-
+`0reobyte` | [0reobyte](https://www.twitch.tv/0reobyte) |
+`0xa_lilkelly` | [0xa_lilkelly](https://twitch.tv/0xa_lilkelly) | 
+`0xBufu` | [0xBufu](https://twitch.tv/0xBufu) | 
+`0xtib3rius` | [0xtib3rius](https://twitch.tv/0xtib3rius) | 
+`55keez` | [55keez](https://twitch.tv/55keez) | 
 
 ## Blue Team Streamers
 
