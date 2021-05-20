@@ -131,7 +131,7 @@ Link | Description
 [HackTheBox](https://hackthebox.eu) | HackTheBox - Learn Penetration Testing Skills
 [HackTheBoxAcademy](https://academy.hackthebox.eu/) | HackTheBoxAcademy - Learn Penetration Testing Skills From the Beginning
 [ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Networking Training
-[Active PenTest Notes] |
+[Engagement Platform] |
 [PenTest.WS](https://pentest.ws) | Engagement Utility
 [Exploits and Guides] |
 [Guides](https://alomancy.gitbook.io/guides/) | In Depth Guides by [Alomancy](https://www.twitch.tv/alomancy)
