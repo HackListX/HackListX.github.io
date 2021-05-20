@@ -134,7 +134,7 @@ Link | Description
 [ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Networking Training
 [Active PenTest Notes] |
 [PenTest.WS](https://pentest.ws) | Engagement Utility
-[Exploits and Techniques] |
+[Exploits and Guides] |
 [Guides](https://alomancy.gitbook.io/guides/) | In Depth Guides by [Alomancy](https://www.twitch.tv/alomancy)
 [exploitDB](https://www.exploit-db.com/) | A database of exploits fpr PenTesters
 [HackTricks](https://book.hacktricks.xyz/) | List of tricks and Techniques
