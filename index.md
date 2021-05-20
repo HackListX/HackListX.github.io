@@ -127,11 +127,12 @@ Streamer | Twitch | Other links
 
 Link | Description
 --- | ---
-[Training and Reference] |
+[Training Sites] |
 [TryHackMe](https://tryhackme.com) | TryHackMe - Learn Penetration Testing Skills 
 [HackTheBox](https://hackthebox.eu) | HackTheBox - Learn Penetration Testing Skills
 [HackTheBoxAcademy](https://academy.hackthebox.eu/) | HackTheBoxAcademy - Learn Penetration Testing Skills From the Beginning
 [ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Learn Basic through intermediate networking
+[Active PenTest Notes] |
 [PenTest.WS](https://pentest.ws) | Engagement Utility
 [ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
 [Guides](https://alomancy.gitbook.io/guides/) | In Depth Guides by [Alomancy](https://www.twitch.tv/alomancy)
