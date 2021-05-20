@@ -151,6 +151,7 @@ Link | Description
 [Reverse Shell Generator](https://www.revshells.com/) | Creates Reverse Shells
 [Other Lists] |
 [securitycreators](https://securitycreators.video/) | Liveoverflow's List
+[Tools and Resources](https://inventory.raw.pm/resources.html) | Larger Resource List
 
 ### Credits
 
