@@ -131,16 +131,16 @@ Link | Description
 [TryHackMe](https://tryhackme.com) | TryHackMe - Learn Penetration Testing Skills 
 [HackTheBox](https://hackthebox.eu) | HackTheBox - Learn Penetration Testing Skills
 [HackTheBoxAcademy](https://academy.hackthebox.eu/) | HackTheBoxAcademy - Learn Penetration Testing Skills From the Beginning
-[ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Learn Basic through intermediate networking
+[ConnectTheDots](https://www.connecteddots.online/) | ConnectTheDots - Networking Training
 [Active PenTest Notes] |
 [PenTest.WS](https://pentest.ws) | Engagement Utility
-[ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
-[Guides](https://alomancy.gitbook.io/guides/) | In Depth Guides by [Alomancy](https://www.twitch.tv/alomancy)
 [Exploits and Techniques] |
+[Guides](https://alomancy.gitbook.io/guides/) | In Depth Guides by [Alomancy](https://www.twitch.tv/alomancy)
 [exploitDB](https://www.exploit-db.com/) | A database of exploits fpr PenTesters
 [HackTricks](https://book.hacktricks.xyz/) | List of tricks and Techniques
 [GTFOBins](https://gtfobins.github.io) | Quick Shell One-liners
 [SS64](https://ss64.com) | Commandline Reference
+[ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
 [Active Online Tools] |
 [CyberChef](https://gchq.github.io/CyberChef) | The Cyber Swiss Army Knife for analysing/encoding/decoding data
 [dCode](https://www.dcode.fr/en) | dCode is a toolkit website for decryption, ciphertexts
