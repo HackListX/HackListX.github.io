@@ -8,7 +8,7 @@ This is a list of Hacking Streamers derived from the original Hacklists: [here](
 
 Streamer | Twitch | YouTube
 ---: | --- | :---
-`ahaquer` \ [ahaquer](https://www.twitch.tv/ahaquer) |
+`ahaquer` | [ahaquer](https://www.twitch.tv/ahaquer) |
 `alexchaveriat` | [alexchaveriat](https://www.twitch.tv/alexchaveriat) | [YouTube](https://www.youtube.com/c/AlexChaveriat/videos)
 `alh4zr3d` | [alh4zr3d](https://twitch.tv/alh4zr3d) | [YouTube](https://www.youtube.com/channel/UCz-Z-d2VPQXHGkch0-_KovA)
 `alomancy` | [alomancy](https://www.twitch.tv/alomancy) | [YouTube](https://www.youtube.com/channel/UCe2i94acge3Bv2Tmjla0h_g)
