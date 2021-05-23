@@ -138,6 +138,7 @@ Link | Description
 [PenTest.WS](https://pentest.ws) | Engagement Utility
 [Exploits and Guides] |
 [Guides](https://alomancy.gitbook.io/guides/) | In Depth Guides by [Alomancy](https://www.twitch.tv/alomancy)
+[PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypasses
 [exploitDB](https://www.exploit-db.com/) | A database of exploits fpr PenTesters
 [HackTricks](https://book.hacktricks.xyz/) | List of tricks and Techniques
 [GTFOBins](https://gtfobins.github.io) | Quick Shell One-liners
