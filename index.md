@@ -40,7 +40,7 @@ Streamer | Twitch | YouTube
 `digitenchou` | [digitenchou](https://www.twitch.tv/digitenchou) |
 `djax` | [djax](https://www.twitch.tv/djax120) | [YouTube](https://www.youtube.com/channel/UCJVQ4X0olUFq0nrxS8Xvijg)
 `dmll606` | [dmll606](https://www.twitch.tv/dmll606) |
-`d0nutptr` | [](https://www.twitch.tv/d0nutptr) |
+`d0nutptr` | [](https://www.twitch.tv/d0nutptr) | [YouTube](https://www.youtube.com/d0nutptr)
 `dowright` | [dowright](https://twitch.tv/dowright) | 
 `echozach` | [echozach](https://twitch.tv/echozach) | 
 `esdn_tv` | [esdn_tv](https://www.twitch.tv/esdn_tv/) |
