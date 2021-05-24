@@ -16,7 +16,7 @@ Streamer | Twitch | YouTube
 `anyascii` | [anyascii](https://twitch.tv/anyascii) |
 `ash_f0x` | [ash_f0x](https://twitch.tv/ash_f0x) | 
 `aywang` | [aywang](https://twitch.tv/aywang) | 
-'bashbunni' | [bashbunni](https://www.twitch.tv/bashbunni) |
+`bashbunni` | [bashbunni](https://www.twitch.tv/bashbunni) |
 `blindpentester` | [blindpentester](https://twitch.tv/blindpentester) | 
 `blvkhakr` | [blvkhakr](https://www.twitch.tv/blvkhakr) |
 `biueaider` | [biueaider](https://www.twitch.tv/biueaider) |
@@ -31,11 +31,10 @@ Streamer | Twitch | YouTube
 `cyber_insecurity` | [cyber_insecurity](https://twitch.tv/cyber_insecurity) | [YouTube](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)
 `cyber_v1s3rion` | [cyber_v1s3rion](https://twitch.tv/cyber_v1s3rion) | 
 `CyberWarriorStudios` | [CyberWarriorStudios](https://twitch.tv/CyberWarriorStudios) | [YouTube](https://www.youtube.com/channel/UC1BeplJcC5YGHjcF8QyRD7g)
- `dasrealbert` | [dasrealbert](https://www.twitch.tv/dasrealbert) |
+`dasrealbert` | [dasrealbert](https://www.twitch.tv/dasrealbert) |
 `dayzerosec` | [dayzerosec](https://twitch.tv/dayzerosec) | [Youtube](https://www.youtube.com/channel/UCXFC76FDHZRVes6_lZqwLBA)
 `dccybersec` | [dccybersec](https://twitch.tv/dccybersec) | [YouTube](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
 `dal3ksec` | [dal3ksec](https://www.twitch.tv/dal3ksec) |
-`desyncryan` | [desyncryan](https://www.twitch.tv/desyncryan) | [YouTube](https://www.youtube.com/channel/UCQWQlNq07_Rumy2i69dpqBw)
 `devnullzen` | [devnullzen](https://www.twitch.tv/devnullzen) |
 `digitenchou` | [digitenchou](https://www.twitch.tv/digitenchou) |
 `djax` | [djax](https://www.twitch.tv/djax120) | [YouTube](https://www.youtube.com/channel/UCJVQ4X0olUFq0nrxS8Xvijg)
@@ -52,7 +51,6 @@ Streamer | Twitch | YouTube
 `hackbacc` | [hackbacc](https://www.twitch.tv/hackbacc) |
 `hackingesports` | [hackingesports](https://twitch.tv/hackingesports) | 
 `hackingesports_eng` | [hackingesports_eng](https://twitch.tv/hackingesports_eng) | 
-`hackthebox` | [hackthebox](https://www.twitch.tv/hackthebox) | 
 `hattondog` | [hattondog](https://www.twitch.tv/hattondog) |
 `heyj4x0n` | [heyj4x0n](https://www.twitch.tv/heyj4x0n0) |
 `hey_its_lgg` | [hey_its_lgg](https://twitch.tv/hey_its_lgg) | 
