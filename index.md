@@ -65,6 +65,7 @@ Streamer | Twitch | YouTube
 `lurkingdeep` | [lurkingdeep](https://www.twitch.tv/lurkingdeep) |
 `magneticpenguin` | [magneticpenguin](https://twitch.tv/magneticpenguin) | 
 `majksec` | [majksec](https://twitch.tv/majksec) | 
+`majortechbruv` | [majortechbruv](https://www.twitch.tv/majortechbruv) |
 `mbcrump` | [mbcrump](https://twitch.tv/mbcrump) | [YouTube](https://www.youtube.com/channel/UCCjHMUEzoCauYet8NG4sCog)
 `mell0wx` | [mell0wx](https://twitch.tv/mell0wx) | 
 `nahamsec` | [nahamsec](https://twitch.tv/nahamsec) | 
