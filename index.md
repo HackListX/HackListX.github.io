@@ -64,7 +64,6 @@ Streamer | Twitch | YouTube
 `ltn_bob` | [ltn_bob](https://twitch.tv/ltn_bob) | 
 `lurkingdeep` | [lurkingdeep](https://www.twitch.tv/lurkingdeep) |
 `magneticpenguin` | [magneticpenguin](https://twitch.tv/magneticpenguin) | 
-`majksec` | [majksec](https://twitch.tv/majksec) | 
 `majortechbruv` | [majortechbruv](https://www.twitch.tv/majortechbruv) |
 `mbcrump` | [mbcrump](https://twitch.tv/mbcrump) | [YouTube](https://www.youtube.com/channel/UCCjHMUEzoCauYet8NG4sCog)
 `mell0wx` | [mell0wx](https://twitch.tv/mell0wx) | 
@@ -119,6 +118,7 @@ Streamer | Twitch | Other links
 `codingandcoffee` | [codingandcoffee](https://twitch.tv/codingandcoffee) | 
 `dr_dinomight` | [dr_dinomight](https://twitch.tv/dr_dinomight) | 
 `laastatine` | [laastatine](https://www.twitch.tv/laastatine) |
+`majksec` | [majksec](https://twitch.tv/majksec) | 
 `nerdiebirdy` | [nerdiebirdy](https://twitch.tv/nerdiebirdy) | 
 `togglebit` | [togglebit](https://twitch.tv/togglebit) | 
 `trash_dev` | [trash_dev](https://twitch.tv/trash_dev) | 
