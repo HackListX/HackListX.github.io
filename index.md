@@ -2,7 +2,7 @@
 
 This is a list of Hacking Streamers derived from the original Hacklists: [here](https://docs.google.com/document/d/1A75GwKln1aQDO7jn3w8HSh_bNC978bXtuJhkIX_fv5A/edit?usp=sharing) and [here](https://docs.google.com/spreadsheets/d/1gE4Z94ZoihunPdPDvXQ9kwOL-YbRqtou4yQj7686gXI/edit?usp=sharing). Please join [this Discord](https://discord.gg/C9k5tJYHcr) to suggest other content creators or discuss hacking. Hope to see you there.
 
-[InfosecStreames](https://infosecstreams.github.io/) is a list that is sorted by the amount of streaming activity of each person on the list.
+[InfosecStreams](https://infosecstreams.github.io/) is a list that is sorted by the amount of streaming activity of each person on the list.
 
 ## Red Team Streamers
 
@@ -110,7 +110,7 @@ Streamer | Twitch | Other links
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
 
 
-## Coders That Support Inforsec Streamers
+## Coders That Support Infosec Streamers
 
 Streamer | Twitch | Other links
 ---: | --- | :---
