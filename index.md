@@ -76,6 +76,7 @@ Streamer | Twitch | YouTube
 `pwnschool` | [pwnschool](https://www.twitch.tv/pwnschool) |
 `quercusvirginiana` | [quercusvirginiana](https://www.twitch.tv/quercusvirginiana) |
 `rastam0us3` | [rastam0us3](https://www.twitch.tv/rastam0us3) |
+`redteammedic` | [redteammedic](https://www.twitch.tv/redteammedic) |
 `ryskill` | [ryskill](https://www.twitch.tv/ryskill) |
 `saucysec` | [saucysec](https://twitch.tv/saucysec) | 
 `sawyerone` | [sawyerone](https://twitch.tv/sawyerone) | 
