@@ -64,6 +64,7 @@ Streamer | Twitch | YouTube
 `ltn_bob` | [ltn_bob](https://twitch.tv/ltn_bob) | 
 `lurkingdeep` | [lurkingdeep](https://www.twitch.tv/lurkingdeep) |
 `magneticpenguin` | [magneticpenguin](https://twitch.tv/magneticpenguin) | 
+`maikroservice` | [maikroservice](https://www.twitch.tv/maikroservice) |
 `majortechbruv` | [majortechbruv](https://www.twitch.tv/majortechbruv) |
 `mbcrump` | [mbcrump](https://twitch.tv/mbcrump) | [YouTube](https://www.youtube.com/channel/UCCjHMUEzoCauYet8NG4sCog)
 `mell0wx` | [mell0wx](https://twitch.tv/mell0wx) | 
