@@ -145,6 +145,7 @@ Link | Description
 [exploitDB](https://www.exploit-db.com/) | A database of exploits fpr PenTesters
 [HackTricks](https://book.hacktricks.xyz/) | List of tricks and Techniques
 [GTFOBins](https://gtfobins.github.io) | Quick Shell One-liners
+[LoLBaS](https://lolbas-project.github.io/) | GTFOBins, but for Windows
 [SS64](https://ss64.com) | Commandline Reference
 [ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
 [Active Online Tools] |
