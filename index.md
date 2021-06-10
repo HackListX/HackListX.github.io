@@ -30,6 +30,7 @@ Streamer | Twitch | YouTube
 `cybervno` | [cybervno](https://www.twitch.tv/cybervno) |
 `cyber_insecurity` | [cyber_insecurity](https://twitch.tv/cyber_insecurity) | [YouTube](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)
 `cyber_v1s3rion` | [cyber_v1s3rion](https://twitch.tv/cyber_v1s3rion) | 
+`cybertechvibes` | [cybertechvibes](https://www.twitch.tv/cybertechvibes) |
 `CyberWarriorStudios` | [CyberWarriorStudios](https://twitch.tv/CyberWarriorStudios) | [YouTube](https://www.youtube.com/channel/UC1BeplJcC5YGHjcF8QyRD7g)
 `dasrealbert` | [dasrealbert](https://www.twitch.tv/dasrealbert) |
 `dayzerosec` | [dayzerosec](https://twitch.tv/dayzerosec) | [Youtube](https://www.youtube.com/channel/UCXFC76FDHZRVes6_lZqwLBA)
@@ -66,7 +67,6 @@ Streamer | Twitch | YouTube
 `lurkingdeep` | [lurkingdeep](https://www.twitch.tv/lurkingdeep) |
 `magneticpenguin` | [magneticpenguin](https://twitch.tv/magneticpenguin) | 
 `maikroservice` | [maikroservice](https://www.twitch.tv/maikroservice) |
-`majortechbruv` | [majortechbruv](https://www.twitch.tv/majortechbruv) |
 `mbcrump` | [mbcrump](https://twitch.tv/mbcrump) | [YouTube](https://www.youtube.com/channel/UCCjHMUEzoCauYet8NG4sCog)
 `mell0wx` | [mell0wx](https://twitch.tv/mell0wx) | 
 `nahamsec` | [nahamsec](https://twitch.tv/nahamsec) | 
