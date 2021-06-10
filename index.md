@@ -123,6 +123,7 @@ Streamer | Twitch | Other links
 `laastatine` | [laastatine](https://www.twitch.tv/laastatine) |
 `majksec` | [majksec](https://twitch.tv/majksec) | 
 `nerdiebirdy` | [nerdiebirdy](https://twitch.tv/nerdiebirdy) | 
+`rw_grim` | [rw_grim](https://www.twitch.tv/rw_grim) |
 `togglebit` | [togglebit](https://twitch.tv/togglebit) | 
 `trash_dev` | [trash_dev](https://twitch.tv/trash_dev) | 
 `tylercode` | [tylercode](https://twitch.tv/tylercode) | 
