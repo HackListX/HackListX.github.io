@@ -90,7 +90,7 @@ Streamer | Twitch | YouTube
 `softexploit` | [softexploit](https://www.twitch.tv/softexploit) |
 `stellargb` | [stellargb](https://twitch.tv/stellargb) | 
 `streambytes_` | [streambytes_](https://www.twitch.tv/streambytes_) |
-`sup3rhero1` | [sup3rhero1](https://twitch.tv/sup3rhero1) | 
+`sup3rhero1` | [sup3rhero1](https://twitch.tv/sup3rhero1) | [YouTube](https://www.youtube.com/superhero1)
 `Th3lazykid`| [Th3lazykid](https://www.twitch.tv/Th3lazykid) |  
 `thecybermentor` | [thecybermentor](https://twitch.tv/thecybermentor) | [YouTube](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 `themayor11` | [themayor11](https://twitch.tv/themayor11) | [YouTube](https://www.youtube.com/channel/UC5J6JvH5F29FllbLjwmA5ZA)
