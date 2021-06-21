@@ -31,7 +31,6 @@ Streamer | Twitch | YouTube
 `cybervno` | [cybervno](https://www.twitch.tv/cybervno) |
 `cyber_insecurity` | [cyber_insecurity](https://twitch.tv/cyber_insecurity) | [YouTube](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)
 `cyber_v1s3rion` | [cyber_v1s3rion](https://twitch.tv/cyber_v1s3rion) | 
-`cybertechvibes` | [cybertechvibes](https://www.twitch.tv/cybertechvibes) |
 `CyberWarriorStudios` | [CyberWarriorStudios](https://twitch.tv/CyberWarriorStudios) | [YouTube](https://www.youtube.com/channel/UC1BeplJcC5YGHjcF8QyRD7g)
 `dasrealbert` | [dasrealbert](https://www.twitch.tv/dasrealbert) |
 `dayzerosec` | [dayzerosec](https://twitch.tv/dayzerosec) | [Youtube](https://www.youtube.com/channel/UCXFC76FDHZRVes6_lZqwLBA)
@@ -109,6 +108,7 @@ Streamer | Twitch | YouTube
 
 Streamer | Twitch | Other links
 ---: | --- | :---
+`cybertechvibes` | [cybertechvibes](https://www.twitch.tv/cybertechvibes) |
 `footpics4sale` | [footpics4sale](https://twitch.tv/footpics4sale) | 
 `mttaggart` | [mttaggart](https://www.twitch.tv/) |
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
