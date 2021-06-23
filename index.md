@@ -56,6 +56,7 @@ Streamer | Twitch | YouTube
 `heyj4x0n` | [heyj4x0n](https://www.twitch.tv/heyj4x0n0) |
 `hey_its_lgg` | [hey_its_lgg](https://twitch.tv/hey_its_lgg) | 
 `infinitelogins` | [infinitelogins](https://twitch.tv/infinitelogins) | [YouTube](https://www.youtube.com/channel/UC_nKukFaGysjMzqMVHEIgxQ)
+`infosechouse` | [infosechouse](https://www.twitch.tv/infosechouse)
 `InsiderPhD` | [InsiderPhD](https://www.twitch.tv/InsiderPhD) | [YouTube](https://www.youtube.com/insiderphd)
 `iotvillage` | [iotvillage](https://www.twitch.tv/iotvillage) |
 `JohnHammond010` | [JohnHammond010](https://twitch.tv/johnhammond010) | [YouTube](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
