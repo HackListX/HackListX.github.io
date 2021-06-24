@@ -102,6 +102,7 @@ Streamer | Twitch | YouTube
 `0reobyte` | [0reobyte](https://www.twitch.tv/0reobyte) |
 `0xa_lilkelly` | [0xa_lilkelly](https://twitch.tv/0xa_lilkelly) | 
 `0xBufu` | [0xBufu](https://twitch.tv/0xBufu) | 
+`0xchance` | [0xchance](https://www.twitch.tv/0xchance)
 `0xtib3rius` | [0xtib3rius](https://twitch.tv/0xtib3rius) | 
 `55keez` | [55keez](https://twitch.tv/55keez) | 
 
