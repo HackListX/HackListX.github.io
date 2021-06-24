@@ -47,6 +47,7 @@ Streamer | Twitch | YouTube
 `endingwithali` | [endingwithali](https://www.twitch.tv/endingwithali) |
 `fearless0523` | [fearless0523](https://twitch.tv/fearless0523) | 
 `foxcap_` | [foxcap_](https://twitch.tv/foxcap_) | 
+`fromastr` | [fromastr](https://www.twitch.tv/fromastr) |
 `goldwave__` | [goldwave__]( https://www.twitch.tv/goldwave__) | 
 `goproslowyo` | [goproslowyo](https://www.twitch.tv/goproslowyo) |
 `hackbacc` | [hackbacc](https://www.twitch.tv/hackbacc) |
