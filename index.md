@@ -117,7 +117,7 @@ Streamer | Twitch | Other links
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
 
 
-## Coders That Support Infosec Streamers
+## Coders That Support Ethical Hacking Streamers
 
 Streamer | Twitch | Other links
 ---: | --- | :---
