@@ -147,6 +147,7 @@ Link | Description
 [PenTest.WS](https://pentest.ws) | Engagement Utility
 [Exploits and Guides] |
 [Guides](https://alomancy.gitbook.io/guides/) | In Depth Guides by [Alomancy](https://www.twitch.tv/alomancy)
+[InfoSecHouse](https://www.infosec.house/) | A growing set of guides by [infosechouse](https://www.twitch.tv/infosechouse)
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypasses
 [exploitDB](https://www.exploit-db.com/) | A database of exploits fpr PenTesters
 [HackTricks](https://book.hacktricks.xyz/) | List of tricks and Techniques
@@ -154,7 +155,7 @@ Link | Description
 [LoLBaS](https://lolbas-project.github.io/) | GTFOBins, but for Windows
 [SS64](https://ss64.com) | Commandline Reference
 [ExplainShell](https://explainshell.com) | Bash Shell Command Explanation
-[Active Online Tools] |
+[I/O Online Tools (Put Something In, Get Something Out)] |
 [CyberChef](https://gchq.github.io/CyberChef) | The Cyber Swiss Army Knife for analysing/encoding/decoding data
 [dCode](https://www.dcode.fr/en) | dCode is a toolkit website for decryption, ciphertexts
 [JWT Tool](https://jwt.io) | JSON Web Token encoder/decoder 
