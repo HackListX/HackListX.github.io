@@ -147,7 +147,7 @@ Link | Description
 [PenTest.WS](https://pentest.ws) | Engagement Utility
 [Exploits and Guides] |
 [Guides](https://alomancy.gitbook.io/guides/) | In Depth Guides by [Alomancy](https://www.twitch.tv/alomancy)
-[InfoSecHouse](https://www.infosec.house/) | A growing set of guides by [infosechouse](https://www.twitch.tv/infosechouse)
+[InfoSecHouse-A](https://www.infosec.house/) or [InfoSecHouse-1](https://github.com/InfosecHouse/InfosecHouse) | A growing set of guides by [infosechouse](https://www.twitch.tv/infosechouse)
 [PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings) | A list of useful payloads and bypasses
 [exploitDB](https://www.exploit-db.com/) | A database of exploits fpr PenTesters
 [HackTricks](https://book.hacktricks.xyz/) | List of tricks and Techniques
