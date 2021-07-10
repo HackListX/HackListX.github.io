@@ -165,7 +165,7 @@ Link | Description
 [CrackStation](https://crackstation.net) | Online Hash Cracking
 [Reverse Shell Generator](https://www.revshells.com/) | Creates Reverse Shells
 [PHP Obfuscator](https://www.gaijin.at/en/tools/php-obfuscator) | PHP Obfuscator Tool
-[crontab creator](https://www.youtube.com/watch?v=VigYo7W10Ik) | Crontab Generator
+[crontab generator](https://crontab-generator.org/) and [crontab explainer](https://crontab.guru/) | Crontab Generator
 [regexr](https://regexr.com/) or [regex101](https://regex101.com/) | regex Checkers
 [Other Lists] |
 [securitycreators](https://securitycreators.video/) | Liveoverflow's List
