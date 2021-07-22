@@ -62,6 +62,7 @@ Streamer | Twitch | YouTube
 `iotvillage` | [iotvillage](https://www.twitch.tv/iotvillage) |
 `JohnHammond010` | [JohnHammond010](https://twitch.tv/johnhammond010) | [YouTube](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 `jrozner` | [jrozner](https://twitch.tv/jrozner) | 
+`kegnsec` | [kegnsec](https://www.twitch.tv/kegnsec) |
 `kokencyber` | [kokencyber](https://twitch.tv/kokencyber) | 
 `liveoverflow` | [liveoverflow](https://www.twitch.tv/liveoverflow) | [YouTube](https://www.youtube.com/c/LiveOverflowCTF)
 `lminzarl` | [lminzarl](https://twitch.tv/lminzarl) | 
