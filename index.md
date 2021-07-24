@@ -16,6 +16,7 @@ Streamer | Twitch | YouTube
 `anyascii` | [anyascii](https://twitch.tv/anyascii) |
 `ash_f0x` | [ash_f0x](https://twitch.tv/ash_f0x) | 
 `aywang` | [aywang](https://twitch.tv/aywang) | 
+`b7h30` | [b7h30](https://www.twitch.tv/b7h30) |
 `bashbunni` | [bashbunni](https://www.twitch.tv/bashbunni) |
 `BasteG0d69` | --- | [YouTube](https://www.youtube.com/watch?v=CoLCdwjV62M)
 `blindpentester` | [blindpentester](https://twitch.tv/blindpentester) | 
