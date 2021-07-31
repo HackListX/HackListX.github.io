@@ -77,6 +77,7 @@ Streamer | Twitch | YouTube
 `nidensec` | [nidensec](https://twitch.tv/nidensec) | 
 `nirloy` | [nirloy](https://www.twitch.tv/nirloy) |
 `officialwillip` | [officialwillip](https://twitch.tv/officialwillip) | [YouTube](https://www.youtube.com/channel/UCaOOGHgwrcyf527o838yLyg)
+`optionalctf` | [optionalctf](https://www.twitch.tv/optionalctf) |
 `poocha_police` | [poocha_police](https://www.twitch.tv/poocha_police) |
 `primalmk` | [primalmk](https://www.twitch.tv/primalmk) |
 `pwnschool` | [pwnschool](https://www.twitch.tv/pwnschool) |
