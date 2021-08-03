@@ -88,6 +88,7 @@ Streamer | Twitch | YouTube
 `saucysec` | [saucysec](https://twitch.tv/saucysec) | 
 `sawyerone` | [sawyerone](https://twitch.tv/sawyerone) | 
 `securityfwd` | [securityfwd](https://www.twitch.tv/securityfwd) | [YouTube](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
+`security_live` | [security_live](https://www.twitch.tv/security_live) |
 `securityweekly` | [securityweekly](https://www.twitch.tv/securityweekly) | [YouTube](https://www.youtube.com/channel/UCg--XBjJ50a9tUhTKXVPiqg)
 `sharghaas` | [sharghaas](https://www.twitch.tv/sharghaas) |
 `s1zzurpmane` | [s1zzurpmane](https://www.twitch.tv/s1zzurpmane) |
