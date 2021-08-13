@@ -54,6 +54,7 @@ Streamer | Twitch | YouTube
 `hackbacc` | [hackbacc](https://www.twitch.tv/hackbacc) |
 `hackingesports` | [hackingesports](https://twitch.tv/hackingesports) | 
 `hackingesports_eng` | [hackingesports_eng](https://twitch.tv/hackingesports_eng) | 
+`hack3rwitch` | [hack3rwitch](https://www.twitch.tv/hack3rwitch) | [YouTube](https://www.youtube.com/channel/UCEyNVLXm4PI0m5nbPULQJ5Q)
 `hattondog` | [hattondog](https://www.twitch.tv/hattondog) |
 `heyj4x0n` | [heyj4x0n](https://www.twitch.tv/heyj4x0n0) |
 `hey_its_lgg` | [hey_its_lgg](https://twitch.tv/hey_its_lgg) | 
