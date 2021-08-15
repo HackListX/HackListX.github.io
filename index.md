@@ -47,6 +47,7 @@ Streamer | Twitch | YouTube
 `esdn_tv` | [esdn_tv](https://www.twitch.tv/esdn_tv/) |
 `endingwithali` | [endingwithali](https://www.twitch.tv/endingwithali) |
 `fearless0523` | [fearless0523](https://twitch.tv/fearless0523) | 
+`flangvik` | [flangvik](https://www.twitch.tv/flangvik) |
 `foxcap_` | [foxcap_](https://twitch.tv/foxcap_) | 
 `fromastr` | [fromastr](https://www.twitch.tv/fromastr) |
 `goldwave__` | [goldwave__]( https://www.twitch.tv/goldwave__) | 
