@@ -33,6 +33,7 @@ Streamer | Twitch | YouTube
 `cyber_insecurity` | [cyber_insecurity](https://twitch.tv/cyber_insecurity) | [YouTube](https://www.youtube.com/channel/UCL4JGzitDkX5TOwzs9A02Kg)
 `cyber_v1s3rion` | [cyber_v1s3rion](https://twitch.tv/cyber_v1s3rion) | 
 `CyberWarriorStudios` | [CyberWarriorStudios](https://twitch.tv/CyberWarriorStudios) | [YouTube](https://www.youtube.com/channel/UC1BeplJcC5YGHjcF8QyRD7g)
+`darkstar7471` | [darkstar7471](https://www.twitch.tv/darkstar7471) |
 `dasrealbert` | [dasrealbert](https://www.twitch.tv/dasrealbert) |
 `dayzerosec` | [dayzerosec](https://twitch.tv/dayzerosec) | [Youtube](https://www.youtube.com/channel/UCXFC76FDHZRVes6_lZqwLBA)
 `dccybersec` | [dccybersec](https://twitch.tv/dccybersec) | [YouTube](https://www.youtube.com/channel/UC3sccPO4v8YqCTn8sezZGTw)
