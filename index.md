@@ -101,7 +101,7 @@ Streamer | Twitch | YouTube
 `spiceysec` | [spiceysec](https://www.twitch.tv/spiceysec) |
 `stellargb` | [stellargb](https://twitch.tv/stellargb) | 
 `streambytes_` | [streambytes_](https://www.twitch.tv/streambytes_) |
-'techryptic' | [techryptic](https://www.twitch.tv/techryptic) |
+`techryptic` | [techryptic](https://www.twitch.tv/techryptic) |
 `technology_interpreteres` | [technology_interpreteres](technology_interpreteres) | [YouTube](https://www.youtube.com/user/TechInterpreterInc)
 `sup3rhero1` | [sup3rhero1](https://twitch.tv/sup3rhero1) | [YouTube](https://www.youtube.com/superhero1)
 `Th3lazykid`| [Th3lazykid](https://www.twitch.tv/Th3lazykid) |  
