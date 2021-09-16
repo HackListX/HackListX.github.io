@@ -46,6 +46,7 @@ Streamer | Twitch | YouTube
 `d0nutptr` | [d0nutptr](https://www.twitch.tv/d0nutptr) | [YouTube](https://www.youtube.com/d0nutptr)
 `dowright` | [dowright](https://twitch.tv/dowright) | 
 `echozach` | [echozach](https://twitch.tv/echozach) | 
+`eth0ghost` | [eth0ghost](https://www.twitch.tv/eth0ghost) |
 `esdn_tv` | [esdn_tv](https://www.twitch.tv/esdn_tv/) |
 `endingwithali` | [endingwithali](https://www.twitch.tv/endingwithali) |
 `fearless0523` | [fearless0523](https://twitch.tv/fearless0523) | 
