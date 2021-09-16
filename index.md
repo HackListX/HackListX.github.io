@@ -18,6 +18,7 @@ Streamer | Twitch | YouTube
 `aywang` | [aywang](https://twitch.tv/aywang) | 
 `b7h30` | [b7h30](https://www.twitch.tv/b7h30) |
 `bashbunni` | [bashbunni](https://www.twitch.tv/bashbunni) |
+`beauknowstech` | [beauknowstech](https://www.twitch.tv/beauknowstech) |
 `BasteG0d69` | --- | [YouTube](https://www.youtube.com/watch?v=CoLCdwjV62M)
 `blindpentester` | [blindpentester](https://twitch.tv/blindpentester) | 
 `blvkhakr` | [blvkhakr](https://www.twitch.tv/blvkhakr) |
