@@ -189,5 +189,4 @@ Link | Description
 
 ### Credits
 
-Huge shoutout to [goproslowyo](https://www.twitch.tv/goproslowyo) for creating an awesome version of the list helping me learn Git and MarkDown!!
- <div class="embedDescription-1Cuq9a embedMargin-UO5XwE"><strong><a class="anchor-3Z-8Bb anchorUnderlineOnHover-2ESHQB" title="securityweekly is live: Printnightmare, Zoom, Chaos, Aggah, Infra:Halt, Dallas County &amp; More! SWN #142" href="https://twitch.tv/securityweekly" rel="noreferrer noopener" target="_blank" role="button" tabindex="0">securityweekly is live: Printnightmare, Zoom, Chaos, Aggah, Infra:Halt, Dallas County &amp; More! SWN #142</a></strong>
+Shoutout to [goproslowyo](https://www.twitch.tv/goproslowyo) for creating an awesome version of the list helping me learn Git and MarkDown!! I'll be upping my game further soon.
