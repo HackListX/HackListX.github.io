@@ -56,6 +56,7 @@ Streamer | Twitch | YouTube
 `goldwave__` | [goldwave__]( https://www.twitch.tv/goldwave__) | 
 `goproslowyo` | [goproslowyo](https://www.twitch.tv/goproslowyo) |
 `hackbacc` | [hackbacc](https://www.twitch.tv/hackbacc) |
+`hackeronetv` | [hackeronetv](https://www.twitch.tv/hackeronetv) |
 `hackingesports` | [hackingesports](https://twitch.tv/hackingesports) | 
 `hackingesports_eng` | [hackingesports_eng](https://twitch.tv/hackingesports_eng) | 
 `h8handles` | [h8handles](https://www.twitch.tv/h8handles) |
