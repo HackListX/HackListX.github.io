@@ -113,6 +113,7 @@ Streamer | Twitch | YouTube
 `thecybermentor` | [thecybermentor](https://twitch.tv/thecybermentor) | [YouTube](https://www.youtube.com/channel/UC0ArlFuFYMpEewyRBzdLHiw)
 `themayor11` | [themayor11](https://twitch.tv/themayor11) | [YouTube](https://www.youtube.com/channel/UC5J6JvH5F29FllbLjwmA5ZA)
 `TryHackMe` | [TryHackMe](https://www.twitch.tv/TryHackMe) |
+`uncle_tambour` | [uncle_tambour](https://www.twitch.tv/uncle_tambour) |
 `vandalthegrey` | [vandalthegrey](https://www.twitch.tv/vandalthegrey)
 `xangrychairx` | [xangrychairx](https://twitch.tv/xangrychairx) | [YouTube](https://www.youtube.com/channel/UCS1KHdnVAV1-Qx0jquAiBLA)
 `xesquirmy` | [xesquirmy](https://www.twitch.tv/xesquirmy) |
