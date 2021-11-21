@@ -131,7 +131,7 @@ Streamer | Twitch | Other links
 ---: | --- | :---
 `cybertechvibes` | [cybertechvibes](https://www.twitch.tv/cybertechvibes) |
 `footpics4sale` | [footpics4sale](https://twitch.tv/footpics4sale) | 
-`mttaggart` | [mttaggart](https://www.twitch.tv/) |
+`mttaggart` | [mttaggart](https://www.twitch.tv/mttaggart) | [YouTube](https://www.youtube.com/taggarttech)
 `thegwar` | [thegwar](https://twitch.tv/thegwar) | 
 
 
