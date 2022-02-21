@@ -28,6 +28,7 @@ Streamer | Twitch | YouTube
 `ch3fez` | [ch3fez](https://www.twitch.tv/ch3fez) |
 `codingo_` | [codingo_](https://twitch.tv/codingo_) | [YouTube](https://www.youtube.com/channel/UCUfO02gdMDXgOJWdv_jiLMg)
 `crumbswastaken` | [crumbswastaken](https://twitch.tv/crumbswastaken) | 
+`ctfandcigars` | [ctfandcigars](https://www.twitch.tv/ctfandcigars) |
 `ctrlbyte` | [ctrlbyte](https://twitch.tv/ctrlbyte) | 
 `cybeardsec` | [cybeardsec](https://www.twitch.tv/cybeardsec)
 `cybervno` | [cybervno](https://www.twitch.tv/cybervno) |
