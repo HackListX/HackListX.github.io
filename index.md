@@ -46,6 +46,7 @@ Streamer | Twitch | YouTube
 `dmll606` | [dmll606](https://www.twitch.tv/dmll606) |
 `d0nutptr` | [d0nutptr](https://www.twitch.tv/d0nutptr) | [YouTube](https://www.youtube.com/d0nutptr)
 `dowright` | [dowright](https://twitch.tv/dowright) | 
+`dze64` | [dze64](https://www.twitch.tv/dze64) |
 `echozach` | [echozach](https://twitch.tv/echozach) | 
 `eth0ghost` | [eth0ghost](https://www.twitch.tv/eth0ghost) |
 `esdn_tv` | [esdn_tv](https://www.twitch.tv/esdn_tv/) |
